@@ -1,0 +1,104 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CodeFon">CondeFon</style>
+
+    <style name="iv_objets">iv_objets</style>
+
+    <style name="tx_objets">txt_objets</style>
+
+    <style name="iv_bed">iv_bed</style>
+
+    <style name="tx_bed">tx_bed</style>
+
+    <style name="tx_beds">tx_beds</style>
+
+    <style name="tx_bed1">tx_bed1</style>
+
+    <style name="tx_book0">tx_book0</style>
+
+    <style name="tx_bucket0">tx_bucket0</style>
+
+    <style name="tx_bucket">tx_bucket</style>
+
+    <style name="tx_bucket1">tx_bucket1</style>
+
+    <style name="tx_camera">tx_camera</style>
+
+    <style name="tx_camera1">tx_camera1</style>
+
+    <style name="tx_camera2">tx_camera2</style>
+
+    <style name="tx_celu0">tx_celu0</style>
+
+    <style name="tx_cel">tx_cel</style>
+
+    <style name="tx_celu">tx_celu</style>
+
+    <style name="tx_chair0">tx-chair0</style>
+
+    <style name="tx_chair1">tx_chair1</style>
+
+    <style name="tx_chair2">tx_chair2</style>
+
+    <style name="iv_computer">iv_computer</style>
+
+    <style name="tx_computer">tx_computer</style>
+
+    <style name="tx_dice0">tx_dice0</style>
+
+    <style name="tx_dice">tx_dice</style>
+
+    <style name="tx_dice1">tx_dice1</style>
+
+    <style name="tx_len">tx_len</style>
+
+    <style name="tx_lent">tx_lent</style>
+
+    <style name="tx_lente">tx_lente</style>
+
+    <style name="tx_llaves">tx_llaves</style>
+
+    <style name="tx_lla">tx_lla</style>
+
+    <style name="tx_llav">tx_llav</style>
+
+    <style name="tx_lamp">tx_lamp</style>
+
+    <style name="tx_lamp0">tx_lamp0</style>
+
+    <style name="tx_lamp1">tx_lamp1</style>
+
+    <style name="tx_lint">tx_lint</style>
+
+    <style name="tx_lint0">tx_lint0</style>
+
+    <style name="tx_lint1">tx_lint1</style>
+
+    <style name="tx_pen">tx_pen</style>
+
+    <style name="tx_pen1">tx_pen1</style>
+
+    <style name="tx_pen2">tx_pen2</style>
+
+    <style name="tx_table">tx_table</style>
+
+    <style name="tx_table0">tx_table0</style>
+
+    <style name="tx_table1">tx_table1</style>
+
+    <style name="tx_maquina">tx_maquina</style>
+
+    <style name="tx_maqu">tx_maqu</style>
+
+    <style name="tx_maquin">tx_maquin</style>
+
+
+</resources>

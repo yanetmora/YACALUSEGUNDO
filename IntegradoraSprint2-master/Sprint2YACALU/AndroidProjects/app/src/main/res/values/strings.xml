@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Recyclerview2</string>
+    <string name="enter_mail"> Ingrese un email</string>
+    <string name="enter_password">Ingrese una contraseña</string>
+    <string name="registrar">Registrar usuario</string>
+    <string name="login">Loguearse</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="color">color</string>
+    <string name="pink">pink</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Goku -->
+    <string name="goku_nombre">a / an </string>
+    <string name="goku_descripcion_corta">Aprende como usar los artículos “a” y “an”  </string>
+    <string name="goku_descripcion_Larga">Las palabras "a" y "an" (un, una), son artículos para indicar una cosa (como "un" o "una" en español). como formas plurales, y como decir la hora.
+    </string>
+
+    <!-- Gohan -->
+    <string name="gohan_nombre">Already y Yet</string>
+    <string name="gohan_descripcion_corta">Aprende a aplicar cada de estas palabras.</string>
+    <string name="gohan_descripcion_Larga">La palabra already significa "ya" en español. La palabra already va entre la palabra have o has y el participio. \n
+        I have already finished. (Ya he terminado.)\n
+        La palabra yet significa "todavía" en español. La palabra yet se coloca al final de la oración. \n
+        I haven't finished yet. (No he terminado todavía.) \n</string>
+
+    <!-- Goten -->
+    <string name="goten_nombre">contable / no contable</string>
+    <string name="goten_descripcion_corta">Aprende la diferencia entre cosas contables y no contables </string>
+    <string name="goten_descripcion_Larga"> Palabras contables son cosas que se pueden contar
+        como sillas, manzanas, y gente. Palabras no-contables son cosas que no se pueden contar
+        como líquidos, gases, o cosas tan pequeñas que son imposibles de contar (como arena).
+        Usamos expresiones diferentes con palabras contables y no-contables.</string>
+
+    <!-- Krilin -->
+    <string name="krilin_nombre">For / Since</string>
+    <string name="krilin_descripcion_corta">Para periodos e inicios de sucesos en el tiempo</string>
+    <string name="krilin_descripcion_Larga">Empleando el "present perfect" podemos definir un periodo
+        de tiempo anterior al momento presente, considerando bien su duración, caso en el que utilizamos
+        "for" + periodo temporal,, o bien su inicio o punto de partida, caso en el
+        que utilizamos "since" + momento concreto. "For" y "since" pueden asi mismo emplearse con el "past perfect".
+        "Since" admite únicamente tiempos verbales perfectos. "For" puede también emplearse con el "simple past".</string>
+
+    <!-- Picoro -->
+    <string name="picoro_nombre">both/either/neither</string>
+    <string name="picoro_descripcion_corta">Both - ambos.  Either - cualquiera de los dos. Neither - ninguno (de dos.)</string>
+    <string name="picoro_descripcion_Larga">La palabra "both" en inglés indica dos de un grupo de dos ("ambos" en español).
+        "Either" indica uno de un grupo de dos ("cualquiera de los dos").
+        "Neither" indica cero de un grupo de dos ("ninguno").</string>
+
+    <!-- Vegueta -->
+    <string name="trunks_nombre">Tag Questions</string>
+    <string name="trunks_descripcion_corta">"Tag questions" son preguntas que se usan para confirmar lo que piensas que es verdad.</string>
+    <string name="trunks_descripcion_Larga">Para formar un "tag question" empiezas con la oración que piensas que es verdad
+        ("You speak Spanish" en el ejemplo arriba). El "tag" (la parte de la oración que hace que sea una pregunta) se forma
+        usando un verbo auxiliar en el negativo si la oración fue afirmativa o un verbo auxiliar en el afirmativo si
+        la oración fue negativa. </string>
+
+    <!-- Trunks -->
+    <string name="vegueta_nombre">Make vs Do</string>
+    <string name="vegueta_descripcion_corta">Trunks es un personaje de ficción de la serie de manga y anime Dragon Ball de Akira Toriyama. </string>
+    <string name="vegueta_descripcion_Larga">  El verbo "make" generalmente tiene el signficado de "crear" mientras el verbo "do" generalmente
+        se usa con actividades.</string>
+
+</resources>

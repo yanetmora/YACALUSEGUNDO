@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yanet.recyclerview2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Yacalu"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Menu" />
+        <activity android:name=".Introduction" />
+        <activity android:name=".WritingReports" />
+        <activity android:name=".SocialNetworks" />
+        <activity android:name=".GramarActivity" />
+        <activity android:name=".MemoActivity" />
+        <activity android:name=".GameDragwords" />
+        <activity android:name=".GameComplementation" />
+        <activity
+            android:name=".ListAdjectives"
+            android:screenOrientation="landscape" />
+        <activity android:name=".SectionObjects" />
+        <activity android:name=".VerbPhrases" />
+        <activity android:name=".Condicionals" />
+        <activity android:name=".BusinessEnglish" />
+        <activity android:name=".MusicUrl" />
+        <activity android:name=".Tips" />
+        <activity android:name=".ListDisplay" />
+        <activity android:name=".FacebookActivity" />
+        <activity android:name=".Youtube" />
+        <activity android:name=".Entry" />
+        <activity android:name=".Bed" />
+        <activity android:name=".Bucket" />
+        <activity android:name=".Camera" />
+        <activity android:name=".Celphone" />
+        <activity android:name=".Chair" />
+        <activity android:name=".Computer" />
+        <activity android:name=".Dice" />
+        <activity android:name=".Glasses" />
+        <activity android:name=".Keys" />
+        <activity android:name=".Lamp" />
+        <activity android:name=".Lantern" />
+        <activity android:name=".Pencil" />
+        <activity android:name=".Table" />
+        <activity android:name=".Typewriter" />
+        <activity android:name=".ProcesoConecActivity" />
+        <activity android:name=".MenuConec" />
+        <activity android:name=".ConclusiveConnectorsActivity" />
+        <activity android:name=".ContinuativesConnectorsActivity" />
+        <activity android:name=".AdversativesConnectorsActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".WellcomeActivity"></activity>
+    </application>
+
+</manifest>
